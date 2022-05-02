@@ -1,0 +1,2 @@
+# Set language
+*.sql linguist-detectable=true
